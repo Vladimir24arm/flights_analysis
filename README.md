@@ -16,7 +16,8 @@
 6. **Техническая особенность:** отмененные рейсы не имеют задержки вылета (они не вылетели). Это ограничение нужно учитывать при анализе.
 ## Дашборд
 Задержки <img width="1920" height="777" alt="2026-11-01_10-55-37" src="https://github.com/user-attachments/assets/190cf618-9a86-4011-a17f-0055641368f5" />
-Отмены <img width="1920" height="779" alt="2026-11-01_10-56-06" src="https://github.com/user-attachments/assets/c030a912-2a9a-4b42-8571-0e77671736c3" />
+Отмены  <img width="1920" height="808" alt="2026-11-01_10-59-01" src="https://github.com/user-attachments/assets/fa67c50a-cb5d-4c5d-92d0-8d6518ae6ffe" />
+
  ## Структура проекта
 - `flights_analysis.ipynb` — Jupyter-блокнот с кодом.
 - `screenshots/` — скриншоты графиков.
