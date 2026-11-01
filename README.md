@@ -15,8 +15,8 @@
 5. **Очистка данных:** названия авиакомпаний были приведены к единому регистру через `.str.lower().str.strip()`, чтобы избежать дублей (например, `ALASKA AIRLINES` и `Alaska Airlines`).
 6. **Техническая особенность:** отмененные рейсы не имеют задержки вылета (они не вылетели). Это ограничение нужно учитывать при анализе.
 ## Дашборд
-![Задержки]<img width="1920" height="777" alt="2026-11-01_10-55-37" src="https://github.com/user-attachments/assets/190cf618-9a86-4011-a17f-0055641368f5" />
-![Отмены]<img width="1920" height="779" alt="2026-11-01_10-56-06" src="https://github.com/user-attachments/assets/c030a912-2a9a-4b42-8571-0e77671736c3" />
+Задержки <img width="1920" height="777" alt="2026-11-01_10-55-37" src="https://github.com/user-attachments/assets/190cf618-9a86-4011-a17f-0055641368f5" />
+Отмены <img width="1920" height="779" alt="2026-11-01_10-56-06" src="https://github.com/user-attachments/assets/c030a912-2a9a-4b42-8571-0e77671736c3" />
  ## Структура проекта
 - `flights_analysis.ipynb` — Jupyter-блокнот с кодом.
 - `screenshots/` — скриншоты графиков.
